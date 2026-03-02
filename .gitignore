@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+# Ignore Docker data
+postgres_data/
+# Ignore Java build files
+target/
+# Ignore Python environments
+venv/
+.env
